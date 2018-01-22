@@ -5,6 +5,7 @@ Awesome Bootstrap Checkbox
 [![NPM downloads](https://img.shields.io/npm/dm/awesome-bootstrap-checkbox.svg?style=flat)](https://www.npmjs.com/package/awesome-bootstrap-checkbox)
 [![Dependency Status](https://img.shields.io/david/dev/flatlogic/awesome-bootstrap-checkbox.svg?branch=master&style=flat)](https://www.npmjs.com/package/awesome-bootstrap-checkbox)
 [![Join the chat at https://gitter.im/flatlogic/awesome-bootstrap-checkbox](https://badges.gitter.im/flatlogic/awesome-bootstrap-checkbox.svg)](https://gitter.im/flatlogic/awesome-bootstrap-checkbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fawesome-bootstrap-checkbox.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fawesome-bootstrap-checkbox?ref=badge_shield)
 
 [Font Awesome][] [Bootstrap][] Checkboxes & Radios plugin. Pure CSS way to make inputs look prettier. **No Javascript!**
 
@@ -185,3 +186,7 @@ Based on the [Official Bootstrap Sass port][Bootstrap Sass] and the awesome [Fon
 [Glyphicons]: http://getbootstrap.com/components/#glyphicons
 [Sass]: http://sass-lang.com/
 [Less]: http://lesscss.org/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fawesome-bootstrap-checkbox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fawesome-bootstrap-checkbox?ref=badge_large)
